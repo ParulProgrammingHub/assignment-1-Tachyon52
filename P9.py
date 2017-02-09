@@ -10,7 +10,6 @@ print('Mean Of Marks Is : ',mean)
 perc=mean
 if perc<35:
     print('You Are Fail(Hayla Rakhe Bhura)')
-    print('Your Percetage Are : ',perc)
 else:
     print('You Are Pass(Party Aap Hal)')
-    print('Your Percentage Are : ',perc )
+print('Your Percentage Are : ',perc )
