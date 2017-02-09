@@ -5,9 +5,7 @@ s2=int(input('Enter The Marks Of DMBS : '))
 s3=int(input('Enter The Marks Of Python : '))
 s4=int(input('Enter The Marks Of NAMS : '))
 s5=int(input('Enter The Marks Of Microprocesser : '))
-mean=(s1+s2+s3+s4+s5)/5
-print('Mean Of Marks Is : ',mean)
-perc=mean
+perc=(s1+s2+s3+s4+s5)/5
 if perc<35:
     print('You Are Fail(Hayla Rakhe Bhura)')
 else:
